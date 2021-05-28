@@ -9,7 +9,7 @@ const App = () => {
         <div className='col-md-5'>
           <Signup />
         </div>
-        <div className='col-md-7 my-aut'>
+        <div className='col-md-7 my-auto'>
           <img className='img-fluid w-100' src={rocketImg} alt='' />
         </div>
       </div>
